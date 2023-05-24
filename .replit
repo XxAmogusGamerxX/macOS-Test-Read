@@ -1,0 +1,4 @@
+run = "python reader_python_2.7/run.py"
+
+[nix]
+channel = "stable-22_11"
